@@ -1,6 +1,15 @@
 # E-Commerce System
 
-An E-Commerce System that is developed as internship project at adesso Turkey. 
+An E-Commerce System that is developed as internship project at adesso Turkey. With the project, customers are able to;
+- Make shopping while earning bonus
+- View products by category
+- View product details with customer comments
+- Add product to the favorites list
+- Register and login
+- Manage addresses
+- View wallet and transactions
+- View and cancel orders
+- View and update profile
 
 On the backend side, [.NET](/dotNET/) and [Node.js](/Node/) is used. 
 
@@ -15,20 +24,46 @@ Detailed information is available under each project section.
 
 -------------------------------
 ## Web UI Screenshots
+Home Page
+![](/images/home-screen.png)
 
-![Home Page](/images/home-screen.png)
+Home Page When User Logged In
 ![](/images/home-screen-logged-in.png)
+
+Products by Category
 ![](/images/category-listing.png)
+
+Product Details
 ![](/images/product-details.png)
+
+Registration
 ![](/images/register.png)
+
+Login
 ![](/images/login.png)
+
+Favorites List
 ![](/images/favorites.png)
+
+Shopping Cart
 ![](/images/cart.png)
+
+Order Address Selection Page
 ![](/images/order-address-selection.png)
+
+Orders
 ![](/images/orders.png)
+
+Addresses
 ![](/images/addresses.png)
+
+Profile with update options
 ![](/images/profile.png)
+
+Wallet Details
 ![](/images/wallet.png)
+
+Toastify Notifications
 ![](/images/toastify-notifications.png)
 
 -------------------------------
