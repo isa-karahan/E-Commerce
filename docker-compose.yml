@@ -1,0 +1,36 @@
+services:
+  dotnet_api:
+    image: dotnet_api
+    build:
+      context: dotNET
+      dockerfile: /WebAPI/Dockerfile
+    ports:
+      - 7064:7064
+    depends_on:
+      - db
+
+  db:
+    build:
+      context: SqlServer
+      dockerfile: /Dockerfile
+    hostname: "sqlserver"
+    environment:
+      SA_PASSWORD: "Your_password123"
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: "Express"
+    ports:
+      - 1433:1433
+  
+  node:
+    build:
+      context: Node
+      dockerfile: /Dockerfile
+    ports:
+      - 3200:3200
+  
+  react:
+    build:
+      context: React
+      dockerfile: /Dockerfile
+    ports:
+      - 3000:3000
