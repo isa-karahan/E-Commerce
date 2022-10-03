@@ -8,7 +8,6 @@ The frontend is coded with [React](/React/).
 
 Detailed information is available under each project section.
 
--------------------------------
 ## Database Design of the Project
 ![](/images/database-design.png)
 
