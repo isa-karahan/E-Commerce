@@ -64,6 +64,7 @@ Wallet Details
 ![](/images/wallet.png)
 
 Toastify Notifications
+
 ![](/images/toastify-notifications.png)
 
 -------------------------------
