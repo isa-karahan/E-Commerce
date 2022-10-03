@@ -8,10 +8,30 @@ The frontend is coded with [React](/React/).
 
 Detailed information is available under each project section.
 
+-------------------------------
 ## Database Design of the Project
+
 ![](/images/database-design.png)
 
--------------
+-------------------------------
+## Web UI Screenshots
+
+![Home Page](/images/home-screen.png)
+![](/images/home-screen-logged-in.png)
+![](/images/category-listing.png)
+![](/images/product-details.png)
+![](/images/register.png)
+![](/images/login.png)
+![](/images/favorites.png)
+![](/images/cart.png)
+![](/images/order-address-selection.png)
+![](/images/orders.png)
+![](/images/addresses.png)
+![](/images/profile.png)
+![](/images/wallet.png)
+![](/images/toastify-notifications.png)
+
+-------------------------------
 ## Running Project with Docker-Compose
 - Clone the git repository
 - Open the terminal in project folder
