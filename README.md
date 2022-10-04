@@ -1,19 +1,18 @@
 # E-Commerce System
 
-An E-Commerce System that is developed as internship project at adesso Turkey. With the project, customers are able to;
-- Make shopping while earning bonus
-- View products by category
+An E-Commerce System that was developed as an internship project at adesso Turkey. With the project, customers can;
+- Do your shopping while earning a bonus.
+- View products by category.
 - View product details with customer comments
-- Add product to the favorites list
-- Register and login
-- Manage addresses
-- View wallet and transactions
-- View and cancel orders
-- View and update profile
-
-On the backend side, [.NET](/dotNET/) and [Node.js](/Node/) is used. 
-
-The frontend is coded with [React](/React/).
+- Add products to the favorites list.
+- Register and log in.
+- Manage addresses.
+- View transactions and wallet.
+- View and cancel orders.
+- View and update your profile.
+  
+On the backend side, .NET and Node.js are used.
+The front end is coded with React.
 
 Detailed information is available under each project section.
 

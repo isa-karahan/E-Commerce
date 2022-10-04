@@ -19,7 +19,7 @@
 
 ## Project Structure
 ```
-- WebAPI => Manages the api endpoints and calls the related service using MediatR
+- WebAPI => Manages the API endpoints and calls the related service using MediatR
 - Business
    - Feature (ex. Accounts)
       - Commands
