@@ -10,9 +10,10 @@ An E-Commerce System that was developed as an internship project at adesso Turke
 - View transactions and wallet.
 - View and cancel orders.
 - View and update your profile.
-  
+
+As databases, MSSQL and MongoDB are used.
 On the backend side, [.NET](/dotNET/) and [Node.js](/Node/) are used.
-The front end is coded with [React](/React/).
+The frontend is coded with [React](/React/).
 
 Detailed information is available under each project section.
 
