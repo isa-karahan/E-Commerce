@@ -11,8 +11,8 @@ An E-Commerce System that was developed as an internship project at adesso Turke
 - View and cancel orders.
 - View and update your profile.
   
-On the backend side, .NET and Node.js are used.
-The front end is coded with React.
+On the backend side, [.NET](/dotNET/) and [Node.js](/Node/) are used.
+The front end is coded with [React](/React/).
 
 Detailed information is available under each project section.
 
@@ -69,9 +69,13 @@ Toastify Notifications
 -------------------------------
 ## Running Project with Docker-Compose
 - Clone the git repository
+- Create a .env file and define two variable named
+  - DB_CONNECTION => Mongo DB connection string
+  - ACCESS_TOKEN_SECRET => a complex string for access token creation
 - Open the terminal in project folder
 - Run the command below - make sure docker is installed
-  
-  ```docker-compose up --build -d```
 
+```  
+  docker-compose up --build -d
+```
 - Open *http://localhost:3000/* and you are good to go :-) 
