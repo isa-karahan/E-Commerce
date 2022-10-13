@@ -1,8 +1,8 @@
 import useAxiosQuery from '../useAxios/useAxiosQuery';
 
-const useGetProduct = () => {
+const useGetOrders = () => {
 
     return useAxiosQuery(`/users/orders`);
 }
 
-export default useGetProduct;
+export default useGetOrders;
