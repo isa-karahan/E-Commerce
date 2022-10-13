@@ -70,7 +70,7 @@ Toastify Notifications
 -------------------------------
 ## Running Project with Docker-Compose
 - Clone the git repository
-- Create a .env file and define two variable named
+- Create a .env file in Node folder and define two variable named
   - DB_CONNECTION => Mongo DB connection string
   - ACCESS_TOKEN_SECRET => a complex string for access token creation
 - Open the terminal in project folder
